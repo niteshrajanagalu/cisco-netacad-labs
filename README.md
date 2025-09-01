@@ -9,7 +9,5 @@ Currently included:
 
 | Course | Certificate |
 |--------|-------------|
-| ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-green) | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
-| ![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue) | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
-
-![Test Badge](https://img.shields.io/badge/Test-Badge-green)
+| ![Cisco Intro to Cybersecurity](badges/intro.png) | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
+| ![Cisco Networking Basics](badges/networking.png) | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
