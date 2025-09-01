@@ -6,6 +6,9 @@ It focuses on step-by-step lab notes, configurations, and screenshots to demonst
 
 Currently included:
 
-Introduction to Cybersecurity ✅ (Certificate earned: [],Badge Earned:[https://www.credly.com/earner/earned/badge/4540b7db-cd32-440f-ab73-f4f4be342c16])
+## 📜 Certificates  
 
-Networking Basics ✅ (Certificate earned: [file:///C:/Users/nites/Downloads/Networking_Basics_certificate_niteshrajanaglu-gmail-com_4e01a94a-9958-4d5f-af7a-2c7a39a551e5%20(1).pdf],Badge earned:[https://www.credly.com/badges/76409012-bf53-4955-8302-2fd45fbdb4e0/public_url])
+| Course | Certificate |  
+|--------|-------------|  
+| ![Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-green?logo=cisco) | [View PDF](./Certificates/Introduction%20to%20Cybersecurity.pdf) |  
+| ![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?logo=cisco) | [View PDF](./Certificates/Networking%20Basics.pdf) |  
