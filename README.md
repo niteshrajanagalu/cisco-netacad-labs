@@ -9,5 +9,5 @@ Currently included:
 
 | Course | Certificate |
 |--------|-------------|
-| ![Cisco Intro to Cybersecurity](badges/intro.png) | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
-| ![Cisco Networking Basics](badges/networking.png) | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
+| <img src="badges/intro.png" alt="Cisco Intro to Cybersecurity" style="pointer-events:none;" /> | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
+| <img src="badges/networking.png" alt="Cisco Networking Basics" style="pointer-events:none;" /> | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
