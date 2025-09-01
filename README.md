@@ -7,5 +7,5 @@ It focuses on step-by-step lab notes, configurations, and screenshots to demonst
 Currently included:
 | Course | Badge | Certificate |
 |--------|-------|-------------|
-| Cisco Introduction to Cybersecurity | <img src="Badges/intro.png" width="104"> | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
-| Cisco Networking Basics | <img src="Badges/networking.png" width="104"> | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
+| Cisco Introduction to Cybersecurity | <img src="badges/intro.png" width="104"> | [📄 View PDF](Certificates/Introduction%20to%20Cybersecurity.pdf) |
+| Cisco Networking Basics | <img src="badges/networking.png" width="104"> | [📄 View PDF](Certificates/Networking%20Basics.pdf) |
