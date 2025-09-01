@@ -37,5 +37,7 @@ Understanding privacy regulations and data protection is essential.
 Career opportunities include Security Analyst, Ethical Hacker, and Network Security Engineer.
 
 Labs and Simulations
+
 The course includes interactive, scenario-based exercises such as phishing detection, password strength testing, and proper handling of sensitive data. These reinforce learning without requiring deep technical setups.
+
 
